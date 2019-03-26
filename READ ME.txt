@@ -1,0 +1,5 @@
+This is a 2 player game where you get to test your reaction speed in a wild west style shootout.
+
+Controls:
+space for blue to shoot
+enter for red to shoot
